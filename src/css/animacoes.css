@@ -1,0 +1,21 @@
+@keyframes c-glowing-blue{
+0%{
+    box-shadow: 0 0 15px var(--cor-azul-fraco);
+
+
+
+
+}
+
+
+
+
+
+
+@keyframes c-glowing-red{
+   box-shadow:0 0 15px var(--cor-marron-fraco)
+
+
+
+    
+}
